@@ -34,6 +34,13 @@ This homelab aims to teach myself and others how to install and manage various e
   - 4 Port 10Gbe
 
 
+## Goals
+- Learn how to install and manage various enterprise services
+- Learn how to automate the deployment of services
+- Learn how to monitor and manage services
+- Create self service portals for users to request services
+- Develop and hone Site Reliability Engineering skills
+
 ## Virtualization
 ### VMware vSphere Version 8.0
 VMware vSphere, vCenter, and ESXi will be used to host most of the lab. Each bare metal server will run ESXi and be managed by vCenter. The vCenter server will be a VM running on the R710. The R420 will be used for the majority of the VMs.
